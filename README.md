@@ -28,7 +28,7 @@ The file structure used in this example is:
 The elliptic curve algorithm scalar multiplied by a given point in this example is suitable for SIMoME series cards of Taisys. For details, please refer to [SECP256k1](SECP256k1) 
 
 ## License
-This work is licensed under MIT License. See [LICENSE](LICENSE.txt) for details.
+This work is licensed under GPLv3 License. See [LICENSE](LICENSE.txt) for details.
 
 ## Contact Us
 Have any problem? You can [click here](https://taisys.com/contact?lang=).
